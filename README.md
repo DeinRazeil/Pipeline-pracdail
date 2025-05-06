@@ -1,0 +1,2 @@
+# Pipeline-pracdail
+Initial commit
